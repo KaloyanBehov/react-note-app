@@ -52,7 +52,7 @@ npm run dev
    Utilize the search bar provided to find notes by title. Alternatively, filter notes by selecting tags from the available options.
 
 Access the project:
-you can acces the live version by follwoing this link ( https://react-note-app-chi.vercel.app/)
+you can acces the live version by follwoing this link ( https://react-note-app-bjuj.vercel.app/)
 
 Tech Stack:
 
